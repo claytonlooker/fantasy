@@ -3,6 +3,7 @@ view: basketball {
 
   dimension: team {
     type: string
+    description: "Name of Team"
     sql: ${TABLE}.Team ;;
   }
 
