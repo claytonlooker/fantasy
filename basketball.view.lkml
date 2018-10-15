@@ -8,6 +8,7 @@ view: basketball {
 
   measure: rank {
     type: number
+    description: "added a description"
     sql: ${TABLE}.rank ;;
   }
 
